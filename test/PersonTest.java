@@ -13,7 +13,7 @@ public class PersonTest {
   private Person john;
 
   /**
-   * Before
+   * Before is here.
    */
   @Before
   public void setUp() {
@@ -22,7 +22,7 @@ public class PersonTest {
   }
 
   /**
-   * Test
+   * Test case is here.
    */
   @Test
   public void testFirst() {
@@ -31,7 +31,7 @@ public class PersonTest {
   }
 
   /**
-   * Test
+   * Test case is here.
    */
   @Test
   public void testSecond() {
@@ -39,7 +39,7 @@ public class PersonTest {
   }
 
   /**
-   * Test
+   * Test case is here.
    */
   @Test
   public void testYearOfBirth() {
